@@ -1,0 +1,30 @@
+Added Component: Designator=DD1(LM2596)
+Added Component: Designator=Q1(DPAK254P1524X483-3N)
+Added Component: Designator=Q2(DPAK254P1524X483-3N)
+Added Component: Designator=Q3(DPAK254P1524X483-3N)
+Added Component: Designator=Q4(DPAK254P1524X483-3N)
+Added Pin To Net: NetName=VCC Pin=DD1-1
+Added Pin To Net: NetName=VCC Pin=DD1-2
+Added Pin To Net: NetName=GND Pin=DD1-3
+Added Pin To Net: NetName=GND Pin=DD1-4
+Added Pin To Net: NetName=5V Pin=DD1-5
+Added Pin To Net: NetName=5V Pin=DD1-6
+Added Pin To Net: NetName=GND Pin=DD1-7
+Added Pin To Net: NetName=GND Pin=DD1-8
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Member To Class: ClassName=STM Member=Component DD1 LM2596
+Added Member To Class: ClassName=OUT Member=Component Q1 IRFZ44N
+Added Member To Class: ClassName=OUT Member=Component Q2 IRFZ44N
+Added Member To Class: ClassName=OUT Member=Component Q3 IRFZ44N
+Added Member To Class: ClassName=OUT Member=Component Q4 IRFZ44N

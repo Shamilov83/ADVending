@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=5V Pin=U4-8
+Removed Pin From Net: NetName=NetU3_4 Pin=X17-1
+Removed Pin From Net: NetName=NetU3_5 Pin=X17-2
+Removed Pin From Net: NetName=NetU3_6 Pin=X18-1
+Removed Pin From Net: NetName=NetU3_7 Pin=X18-2
+Removed Pin From Net: NetName=NetU3_9 Pin=X19-2
+Removed Pin From Net: NetName=NetU3_10 Pin=X20-1
+Removed Pin From Net: NetName=NetU3_11 Pin=X20-2
+Removed Pin From Net: NetName=NetU2_4 Pin=X22-1
+Removed Pin From Net: NetName=NetU2_5 Pin=X22-2
+Removed Pin From Net: NetName=NetU2_6 Pin=X23-1
+Removed Pin From Net: NetName=NetU2_7 Pin=X23-2
+Removed Pin From Net: NetName=NetU2_9 Pin=X24-2
+Removed Pin From Net: NetName=NetU2_10 Pin=X25-1
+Removed Pin From Net: NetName=NetU2_11 Pin=X25-2
+Change Component Description : Designator=U4 Old Description=EEPROM Memory IC 256Kb _32K x 8_ IA?C 1MHz 550ns 8-SOIC New Description=EEPROM Memory IC 256Kb _32K x 8_ IA?C 1MHz 550ns 8-SOIC
+Added Component: Designator=C50(C_0805)
+Added Component: Designator=C51(C_0805)
+Added Component: Designator=C52(C_0805)
+Added Pin To Net: NetName=3V Pin=C50-1
+Added Pin To Net: NetName=GND Pin=C50-2
+Added Pin To Net: NetName=3V Pin=C51-1
+Added Pin To Net: NetName=GND Pin=C51-2
+Added Pin To Net: NetName=3V Pin=C52-1
+Added Pin To Net: NetName=GND Pin=C52-2
+Added Pin To Net: NetName=3V Pin=U4-8
+Added Pin To Net: NetName=NetU2_4 Pin=X17-1
+Added Pin To Net: NetName=NetU2_5 Pin=X17-2
+Added Pin To Net: NetName=NetU2_6 Pin=X18-1
+Added Pin To Net: NetName=NetU2_7 Pin=X18-2
+Added Pin To Net: NetName=NetU2_11 Pin=X19-2
+Added Pin To Net: NetName=NetU2_10 Pin=X20-1
+Added Pin To Net: NetName=NetU2_9 Pin=X20-2
+Added Pin To Net: NetName=NetU3_4 Pin=X22-1
+Added Pin To Net: NetName=NetU3_5 Pin=X22-2
+Added Pin To Net: NetName=NetU3_6 Pin=X23-1
+Added Pin To Net: NetName=NetU3_7 Pin=X23-2
+Added Pin To Net: NetName=NetU3_11 Pin=X24-2
+Added Pin To Net: NetName=NetU3_10 Pin=X25-1
+Added Pin To Net: NetName=NetU3_9 Pin=X25-2
+Change Net Name : Old Net Name=NetU2_8 New Net Name=NetU3_12
+Change Net Name : Old Net Name=NetU3_8 New Net Name=NetU2_12
+Added Member To Class: ClassName=OUT Member=Component C50 0.1 ÏÍ‘
+Added Member To Class: ClassName=OUT Member=Component C51 0.1 ÏÍ‘
+Added Member To Class: ClassName=OUT Member=Component C52 0.1 ÏÍ‘

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetU2_4 Pin=X21-2
+Removed Pin From Net: NetName=NetU2_5 Pin=X22-1
+Removed Pin From Net: NetName=NetU2_6 Pin=X22-2
+Removed Pin From Net: NetName=NetU2_7 Pin=X23-1
+Removed Pin From Net: NetName=NetU2_8 Pin=X23-2
+Removed Pin From Net: NetName=NetU2_9 Pin=X24-1
+Removed Pin From Net: NetName=NetU2_10 Pin=X24-2
+Removed Pin From Net: NetName=NetU2_11 Pin=X25-1
+Removed Member From Class: ClassName=OUT Member=X25
+Change Component Designator: OldDesignator=X21 NewDesignator=X25
+Added Pin To Net: NetName=NetU2_4 Pin=X22-1
+Added Pin To Net: NetName=NetU2_5 Pin=X22-2
+Added Pin To Net: NetName=NetU2_6 Pin=X23-1
+Added Pin To Net: NetName=NetU2_7 Pin=X23-2
+Added Pin To Net: NetName=NetU2_8 Pin=X24-1
+Added Pin To Net: NetName=NetU2_9 Pin=X24-2
+Added Pin To Net: NetName=NetU2_10 Pin=X25-1
+Added Pin To Net: NetName=NetU2_11 Pin=X25-2

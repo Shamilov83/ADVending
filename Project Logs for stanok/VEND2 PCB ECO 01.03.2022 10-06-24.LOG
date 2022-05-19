@@ -1,0 +1,68 @@
+Added Component: Designator=A1(TSSOP20)
+Added Component: Designator=A2(TSSOP20)
+Added Pin To Net: NetName=3V Pin=A1-1
+Added Pin To Net: NetName=3V Pin=A1-2
+Added Pin To Net: NetName=GND Pin=A1-3
+Added Pin To Net: NetName=GND Pin=A1-8
+Added Pin To Net: NetName=NetR48_2 Pin=A1-14
+Added Pin To Net: NetName=NetR49_2 Pin=A1-15
+Added Pin To Net: NetName=3V Pin=A1-16
+Added Pin To Net: NetName=3V Pin=A2-1
+Added Pin To Net: NetName=GND Pin=A2-2
+Added Pin To Net: NetName=GND Pin=A2-3
+Added Pin To Net: NetName=GND Pin=A2-8
+Added Pin To Net: NetName=NetR48_2 Pin=A2-14
+Added Pin To Net: NetName=NetR49_2 Pin=A2-15
+Added Pin To Net: NetName=3V Pin=A2-16
+Change Net Name : Old Net Name=NetR48_2 New Net Name=NetA1_14
+Change Net Name : Old Net Name=NetR49_2 New Net Name=NetA1_15
+Added Pin To Net: NetName=NetA1_4 Pin=A1-4
+Added Pin To Net: NetName=NetA1_4 Pin=X17-1
+Added Net: Name=NetA1_4
+Added Pin To Net: NetName=NetA1_5 Pin=A1-5
+Added Pin To Net: NetName=NetA1_5 Pin=X17-2
+Added Net: Name=NetA1_5
+Added Pin To Net: NetName=NetA1_6 Pin=A1-6
+Added Pin To Net: NetName=NetA1_6 Pin=X18-1
+Added Net: Name=NetA1_6
+Added Pin To Net: NetName=NetA1_7 Pin=A1-7
+Added Pin To Net: NetName=NetA1_7 Pin=X18-2
+Added Net: Name=NetA1_7
+Added Pin To Net: NetName=NetA1_9 Pin=A1-9
+Added Pin To Net: NetName=NetA1_9 Pin=X20-2
+Added Net: Name=NetA1_9
+Added Pin To Net: NetName=NetA1_10 Pin=A1-10
+Added Pin To Net: NetName=NetA1_10 Pin=X20-1
+Added Net: Name=NetA1_10
+Added Pin To Net: NetName=NetA1_11 Pin=A1-11
+Added Pin To Net: NetName=NetA1_11 Pin=X19-2
+Added Net: Name=NetA1_11
+Added Pin To Net: NetName=NetA1_12 Pin=A1-12
+Added Pin To Net: NetName=NetA1_12 Pin=X19-1
+Added Net: Name=NetA1_12
+Added Pin To Net: NetName=NetA2_4 Pin=A2-4
+Added Pin To Net: NetName=NetA2_4 Pin=X22-1
+Added Net: Name=NetA2_4
+Added Pin To Net: NetName=NetA2_5 Pin=A2-5
+Added Pin To Net: NetName=NetA2_5 Pin=X22-2
+Added Net: Name=NetA2_5
+Added Pin To Net: NetName=NetA2_6 Pin=A2-6
+Added Pin To Net: NetName=NetA2_6 Pin=X23-1
+Added Net: Name=NetA2_6
+Added Pin To Net: NetName=NetA2_7 Pin=A2-7
+Added Pin To Net: NetName=NetA2_7 Pin=X23-2
+Added Net: Name=NetA2_7
+Added Pin To Net: NetName=NetA2_9 Pin=A2-9
+Added Pin To Net: NetName=NetA2_9 Pin=X25-2
+Added Net: Name=NetA2_9
+Added Pin To Net: NetName=NetA2_10 Pin=A2-10
+Added Pin To Net: NetName=NetA2_10 Pin=X25-1
+Added Net: Name=NetA2_10
+Added Pin To Net: NetName=NetA2_11 Pin=A2-11
+Added Pin To Net: NetName=NetA2_11 Pin=X24-2
+Added Net: Name=NetA2_11
+Added Pin To Net: NetName=NetA2_12 Pin=A2-12
+Added Pin To Net: NetName=NetA2_12 Pin=X24-1
+Added Net: Name=NetA2_12
+Added Member To Class: ClassName=OUT Member=Component A1 PCF8574DW
+Added Member To Class: ClassName=OUT Member=Component A2 PCF8574DW

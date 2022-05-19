@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=C5 Old Footprint=C_0805 New Footprint=C_1206
+Change Component Footprint: Designator=C6 Old Footprint=C_0805 New Footprint=C_1206
+Change Component Footprint: Designator=C50 Old Footprint=C_0805 New Footprint=C_1206
+Change Component Footprint: Designator=C51 Old Footprint=C_0805 New Footprint=C_1206
+Change Component Footprint: Designator=C52 Old Footprint=C_0805 New Footprint=C_1206
+Change Component Footprint: Designator=C3 Old Footprint=C_1210 New Footprint=C_1206
+Change Component Footprint: Designator=C43 Old Footprint=C_1210 New Footprint=C_1206
+Change Component Footprint: Designator=R48 Old Footprint=R_0603 New Footprint=R_1206
+Change Component Footprint: Designator=R49 Old Footprint=R_0603 New Footprint=R_1206
+Change Component Footprint: Designator=R46 Old Footprint=R_0805 New Footprint=R_1206
+Change Component Footprint: Designator=R47 Old Footprint=R_0805 New Footprint=R_1206
+Change Component Description : Designator=U4 Old Description=EEPROM Memory IC 256Kb _32K x 8_ IA?C 1MHz 550ns 8-SOIC New Description=EEPROM Memory IC 256Kb _32K x 8_ IA?C 1MHz 550ns 8-SOIC
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-39
