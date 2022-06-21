@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=GND Pin=DA2-2
+Removed Pin From Net: NetName=GND Pin=DA4-2
+Removed Pin From Net: NetName=5V Pin=R37-1
+Removed Pin From Net: NetName=NetDA2_1 Pin=R38-2
+Removed Pin From Net: NetName=NetDA2_4 Pin=R39-2
+Removed Pin From Net: NetName=5V Pin=R41-1
+Removed Pin From Net: NetName=5V Pin=R42-1
+Removed Pin From Net: NetName=5V Pin=R45-1
+Removed Pin From Net: NetName=5V Pin=R48-1
+Removed Pin From Net: NetName=NetDA4_1 Pin=R48-2
+Removed Pin From Net: NetName=NetDA4_4 Pin=R49-2
+Removed Pin From Net: NetName=5V Pin=R51-1
+Removed Pin From Net: NetName=NetDA4_1 Pin=U3-2
+Removed Pin From Net: NetName=NetDA2_1 Pin=U3-30
+Added Pin To Net: NetName=GND Pin=DA2-3
+Added Pin To Net: NetName=GND Pin=DA4-3
+Added Pin To Net: NetName=3V Pin=R37-1
+Added Pin To Net: NetName=NetDA2_4 Pin=R38-2
+Added Pin To Net: NetName=NetDA2_1 Pin=R39-2
+Added Pin To Net: NetName=3V Pin=R41-1
+Added Pin To Net: NetName=3V Pin=R42-1
+Added Pin To Net: NetName=3V Pin=R45-1
+Added Pin To Net: NetName=3V Pin=R48-1
+Added Pin To Net: NetName=NetDA4_4 Pin=R48-2
+Added Pin To Net: NetName=NetDA4_1 Pin=R49-2
+Added Pin To Net: NetName=3V Pin=R51-1
+Added Pin To Net: NetName=NetDA4_4 Pin=U3-2
+Added Pin To Net: NetName=NetDA2_4 Pin=U3-30
+Added Pin To Net: NetName=NetDA2_2 Pin=DA2-2
+Added Pin To Net: NetName=NetDA2_2 Pin=X25-1
+Added Net: Name=NetDA2_2
+Added Pin To Net: NetName=NetDA3_2 Pin=DA3-2
+Added Pin To Net: NetName=NetDA3_2 Pin=X27-1
+Added Net: Name=NetDA3_2
+Added Pin To Net: NetName=NetDA4_2 Pin=DA4-2
+Added Pin To Net: NetName=NetDA4_2 Pin=X28-1
+Added Net: Name=NetDA4_2
