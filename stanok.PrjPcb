@@ -182,10 +182,18 @@ VariationCount=0
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for stanok\STM.BOM
+DocumentPath=Project Outputs for stanok\Board.BOM
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for stanok\Board.CSV
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for stanok\STM.BOM
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Project Outputs for stanok\STM.CSV
 DItemRevisionGUID=
 

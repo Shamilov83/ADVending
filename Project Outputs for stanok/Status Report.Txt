@@ -1,11 +1,11 @@
 Output: Simple BOM
 Type  : SimpleBOM
 From  : Variant [[No Variations]] of Project [stanok.PrjPcb]
-   Generated File[STM.BOM]
-   Generated File[STM.CSV]
+   Generated File[Board.BOM]
+   Generated File[Board.CSV]
 
 
 Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 11:31:35 On 03.03.2022
+Finished Output Generation At 8:39:22 On 24.06.2022
