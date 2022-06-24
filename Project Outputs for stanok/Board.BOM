@@ -10,10 +10,10 @@ On 24.06.2022 at 8:39:22
  1.5K                R_1206           1    R3                           0,25 Вт              
  100                 R_1206           7    R1, R2, R37, R38, R45, R48   0,25 Вт              
                                            R51
- 1000 мкФ            C_10x5           3    C8, C9, C11                  К50-35               
- 1000 мкФ            C_12.5x5         1    C6                           К50-35               
+ 1000 мк”            C_10x5           3    C8, C9, C11                  К50-35               
+ 1000 мк”            C_12.5x5         1    C6                           К50-35               
  10K                 R_1206           4    R6, R41, R42, R43            0,25 Вт              
- 10В                 DL-35            5    VD17, VD18, VD22, VD23, VD24 стабилитрон, SMD     
+ 10‚                 DL-35            5    VD17, VD18, VD22, VD23, VD24 стабилитрон, SMD     
  130                 R_1206          28    R7, R8, R9, R10, R11, R12    0,25 Вт              
                                            R13, R14, R15, R16, R17, R18
                                            R19, R20, R21, R22, R23, R24
@@ -43,10 +43,10 @@ On 24.06.2022 at 8:39:22
                                            DA7, DA8, DA9, DA10
  LM2596              LM2596           2    DD1, DD2                     Блок питания         
  PCF8574DW           SOIC127P1030X265-16N    2    A1, A2                       Remote 8-Bit I/O Expander for I2C-Bus 16-SOIC -40 to 85 
- SMA400*             SMA (DO-214AC)    5    VD15, VD16, VD19, VD20, VD21 диод, SMD            
- SMA400*             SOD-123         13    VD1, VD2, VD3, VD4, VD5, VD6 диод, SMD            
+ SMAJ30A-TR          SMA (DO-214AC)    5    VD15, VD16, VD19, VD20, VD21 диод, SMD            
+ MBR0520LT1G         SOD-123         13    VD1, VD2, VD3, VD4, VD5, VD6 диод, SMD            
                                            VD7, VD8, VD9, VD10, VD11
                                            VD12, VD13
  TS-A2PG-130         TS-A2PG-130      1    KN1                          Кнопка 5 мм          
- USB                 SAMTEC_USB-B-S-X-X-TH    1    J1                           USB-B (USB TYPE-B) USB 2.0 Receptacle Connector 4 Position Through Hole, Right Angle 
+ USB                 USBB-1J          1    J1                           USB-B (USB TYPE-B) USB 2.0 Receptacle Connector 4 Position Through Hole, Right Angle 
  ZC323000            MODULE_ZC323000    1    U3                           STM32F103C8T6 ARM STM32 Minimum System Development Board Module For Arduino 
