@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=VCC Pin=DA7-4
+Removed Pin From Net: NetName=3V Pin=R53-1
+Removed Pin From Net: NetName=VCC Pin=VD16-K
+Removed Pin From Net: NetName=VCC Pin=X32-1
+Removed Member From Class: ClassName=OUT_RELE Member=DA7
+Removed Member From Class: ClassName=OUT_RELE Member=R53
+Change Component Comment : Designator=VD17 Old Comment=10Â New Comment=3.9Â
+Change Component Comment : Designator=VD18 Old Comment=10Â New Comment=3.9Â
+Change Component Comment : Designator=VD22 Old Comment=10Â New Comment=3.9Â
+Change Component Comment : Designator=VD23 Old Comment=10Â New Comment=3.9Â
+Change Component Comment : Designator=VD24 Old Comment=10Â New Comment=3.9Â
+Change Component Comment : Designator=R52 Old Comment=360 New Comment=100
+Change Component Comment : Designator=R58 Old Comment=360 New Comment=100
+Change Component Comment : Designator=R59 Old Comment=360 New Comment=100
+Change Component Comment : Designator=R62 Old Comment=360 New Comment=100
+Change Component Comment : Designator=DA1 Old Comment=KPC357NT0C New Comment=PC817
+Change Component Comment : Designator=DA2 Old Comment=KPC357NT0C New Comment=PC817
+Change Component Comment : Designator=DA3 Old Comment=KPC357NT0C New Comment=PC817
+Change Component Comment : Designator=DA4 Old Comment=KPC357NT0C New Comment=PC817
+Change Component Comment : Designator=DA5 Old Comment=KPC357NT0C New Comment=PC817
+Change Component Comment : Designator=DA6 Old Comment=KPC357NT0C New Comment=PC817
+Change Component Comment : Designator=DA8 Old Comment=KPC357NT0C New Comment=PC817
+Change Component Comment : Designator=DA9 Old Comment=KPC357NT0C New Comment=PC817
+Change Component Comment : Designator=DA10 Old Comment=KPC357NT0C New Comment=PC817
+Change Component Comment : Designator=VD1 Old Comment=SMA400* New Comment=MBR0520LT1G
+Change Component Comment : Designator=VD2 Old Comment=SMA400* New Comment=MBR0520LT1G
+Change Component Comment : Designator=VD3 Old Comment=SMA400* New Comment=MBR0520LT1G
+Change Component Comment : Designator=VD4 Old Comment=SMA400* New Comment=MBR0520LT1G
+Change Component Comment : Designator=VD5 Old Comment=SMA400* New Comment=MBR0520LT1G
+Change Component Comment : Designator=VD6 Old Comment=SMA400* New Comment=MBR0520LT1G
+Change Component Comment : Designator=VD7 Old Comment=SMA400* New Comment=MBR0520LT1G
+Change Component Comment : Designator=VD8 Old Comment=SMA400* New Comment=MBR0520LT1G
+Change Component Comment : Designator=VD9 Old Comment=SMA400* New Comment=MBR0520LT1G
+Change Component Comment : Designator=VD10 Old Comment=SMA400* New Comment=MBR0520LT1G
+Change Component Comment : Designator=VD11 Old Comment=SMA400* New Comment=MBR0520LT1G
+Change Component Comment : Designator=VD12 Old Comment=SMA400* New Comment=MBR0520LT1G
+Change Component Comment : Designator=VD13 Old Comment=SMA400* New Comment=MBR0520LT1G
+Change Component Comment : Designator=J1 Old Comment=USB New Comment=USBB
+Change Component Description : Designator=U1 Old Description=EEPROM Memory IC 256Kb _32K x 8_ IA?C 1MHz 550ns 8-SOIC New Description=EEPROM Memory IC 256Kb _32K x 8_ IA?C 1MHz 550ns 8-SOIC
+Added Pin To Net: NetName=5V Pin=VD16-K
+Added Pin To Net: NetName=5V Pin=X32-1
+Added Pin To Net: NetName=NetR55_2 Pin=R55-2
+Added Pin To Net: NetName=NetR55_2 Pin=U3-11
+Added Net: Name=NetR55_2
+Added Member To Class: ClassName=STM Member=Component X27 DG508V-02
