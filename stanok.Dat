@@ -1,0 +1,33 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~405|Field=Footprint~String~Footprint~139|Field=Quantity~Integer~Quantity~139|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~stanok.PrjPcb|ReportField=ProjectFullPath~D:\ProjectAD16\stanok\stanok.PrjPcb|ReportField=Title~Bill of Materials For Project [stanok.PrjPcb] (PCB Document : Board.PcbDoc)|ReportField=TotalQuantity~170|ReportField=ReportTime~14:00:36|ReportField=ReportDate~18.08.2022|ReportField=ReportDateTime~18.08.2022 14:00:36|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~18.08.2022|ReportField=CurrentTime~13:58:45|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\ProjectAD16\stanok\IN_PIN.SchDoc|ReportField=DocumentName~IN_PIN.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~21.06.2022|ReportField=Organization~|ReportField=ProjectName~stanok.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~2|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~stanok.PrjPcb|ReportField=DataSourceFullPath~D:\ProjectAD16\stanok\stanok.PrjPcb|ReportField=PCBDataSourceFileName~Board.PcbDoc|ReportField=PCBDataSourceFullPath~D:\ProjectAD16\stanok\Board.PcbDoc
+1|PCF8574DW|SOIC127P1030X265-16N|2
+2|0.1 мкФ|C_0805|1
+3|0.1 мкФ|C_1206|4
+4|1000 мкФ|C_12.5x5|1
+5|1000 мкФ|C_10x5|3
+6|0.1мкФ|C_1206|2
+7|PC817|SOIC254P1000X400-4N|9
+8|LM2596|LM2596|2
+9|USBB|SAMTEC_USB-B-S-X-X-TH|1
+10|TS-A2PG-130|TS-A2PG-130|1
+11|IRFZ44N|DPAK254P1524X483-3N|5
+12|100|R_1206|11
+13|1.5K|R_1206|1
+14|1K|R_1206|1
+15|5.1K|R_1206|2
+16|10K|R_1206|4
+17|130|R_1206|28
+18|0|R_1206|1
+19|360|R_1206|5
+20|3K|R_1206|5
+21|2.2K|R_1206|4
+22|AT24C256C-SSHL-B|SOIC8|1
+23|ACS712|SO08|1
+24|STM32F103-BluePill|MODULE_ZC323000|1
+25|MBR0520LT1G|SOD-123|13
+26|1N4148W|SOD-123|1
+27|SMA4007|SMA (DO-214AC)|5
+28|3.9В|DL-35|5
+29|BC847|SOT23|1
+30|2N7002.215|SOT23|13
+31|DG508V-02|DG508V-02|31
+32|300-031-12|300-031-12|5

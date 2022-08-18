@@ -37,8 +37,7 @@ On 05.08.2022 at 9:37:51
                                            X19, X20, X21, X22, X23, X24
                                            X25, X26, X27, X28, X29, X30
                                            X31, X32, X33, X34, X35, X36
- IRFZ44N             DPAK254P1524X483-3N    5    Q1, Q2, Q3, Q4, Q5           N-Channel 55V 49A (Tc) 3.8W (Ta), 94W (Tc) Surface Mount D2PAK 
- LM2596              LM2596           2    DD1, DD2                     Блок питания         
+ IRFZ44N             DPAK254P1524X483-3N    5    Q1, Q2, Q3, Q4, Q5           N-Channel 55V 49A (Tc) 3.8W (Ta), 94W (Tc) Surface Mount D2PAK      
  MBR0520LT1G         SOD-123         13    VD1, VD2, VD3, VD4, VD5, VD6 диод, SMD            
                                            VD7, VD8, VD9, VD10, VD11
                                            VD12, VD13
@@ -46,6 +45,17 @@ On 05.08.2022 at 9:37:51
                                            DA8, DA9, DA10
  PCF8574DW           SOIC127P1030X265-16N    2    A1, A2                       Remote 8-Bit I/O Expander for I2C-Bus 16-SOIC -40 to 85 
  SMA4007             SMA (DO-214AC)    5    VD15, VD16, VD19, VD20, VD21 диод, SMD            
- STM32F103-BluePill  MODULE_ZC323000    1    U3                           STM32F103C8T6 ARM STM32 Minimum System Development Board Module For Arduino 
+ STM32F103-BluePill  MODULE_ZC323000    1    U3                         STM32F103C8T6 ARM STM32 Minimum System Development Board Module For Arduino 
  TS-A2PG-130         TS-A2PG-130      1    KN1                          Кнопка 5 мм          
- USBB                SAMTEC_USB-B-S-X-X-TH    1    J1                           USB-B (USB TYPE-B) USB 2.0 Receptacle Connector 4 Position Through Hole, Right Angle 
+ USBB                SAMTEC_USB-B-S-X-X-TH    1    J1                   USB-B (USB TYPE-B) USB 2.0 Receptacle Connector 4 Position Through Hole, Right Angle 
+
+компоненты на датчики
+Резистор 100 ом  dip 4шт
+ИК диод 	 dip 4шт
+TSOP31236	 dip 4шт
+конденс  0.1 мкФ dip 4шт
+
+Драйвер ШД dm556 1шт
+
+концевые выключатели
+

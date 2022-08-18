@@ -1,5 +1,5 @@
 Bill of Material for 
-On 05.08.2022 at 9:37:51
+On 05.08.2022 at 9:18:08
 
  Comment             Pattern     Quantity  Components
 ------------------------------------------------------------------------------
@@ -29,7 +29,7 @@ On 05.08.2022 at 9:37:51
  360                 R_1206           5    R36, R39, R44, R49, R50      0,25 ¬т              
  3K                  R_1206           5    R54, R55, R60, R61, R65      0,25 ¬т              
  5.1K                R_1206           2    R5, R40                      0,25 ¬т              
- ACS712              SOIC8            1    U2                           Current Sensor 5A 1 Channel Hall Effect, Open Loop Bidirectional 8-SOIC (0.154, 3.90mm Width) 
+ ACS712              SO08             1    U2                           Current Sensor 5A 1 Channel Hall Effect, Open Loop Bidirectional 8-SOIC (0.154, 3.90mm Width) 
  AT24C256C-SSHL-B    SOIC8            1    U1                           EEPROM Memory IC 256Kb _32K x 8_ IA?C 1MHz 550ns 8-SOIC 
  BC847               SOT23            1    VT1                          NPN, SMD             
  DG508V-02           DG508V-02       31    X1, X2, X3, X4, X5, X6, X7   клеммник винтовой 2к.,5.08мм 
@@ -45,7 +45,7 @@ On 05.08.2022 at 9:37:51
  PC817               SOIC254P1000X400-4N    9    DA1, DA2, DA3, DA4, DA5, DA6 оптрон, SMD          
                                            DA8, DA9, DA10
  PCF8574DW           SOIC127P1030X265-16N    2    A1, A2                       Remote 8-Bit I/O Expander for I2C-Bus 16-SOIC -40 to 85 
- SMA4007             SMA (DO-214AC)    5    VD15, VD16, VD19, VD20, VD21 диод, SMD            
- STM32F103-BluePill  MODULE_ZC323000    1    U3                           STM32F103C8T6 ARM STM32 Minimum System Development Board Module For Arduino 
+ SMA400*             SMA (DO-214AC)    5    VD15, VD16, VD19, VD20, VD21 диод, SMD            
  TS-A2PG-130         TS-A2PG-130      1    KN1                           нопка 5 мм          
  USBB                SAMTEC_USB-B-S-X-X-TH    1    J1                           USB-B (USB TYPE-B) USB 2.0 Receptacle Connector 4 Position Through Hole, Right Angle 
+ ZC323000            MODULE_ZC323000    1    U3                           STM32F103C8T6 ARM STM32 Minimum System Development Board Module For Arduino 

@@ -1,10 +1,10 @@
 "Bill of Material for "
-"On 18.08.2022 at 14:01:59"
+"On 05.08.2022 at 9:18:08"
 
 "Comment","Pattern","Quantity","Components"
 
-"0.1 мк‘","C_0805","1","C1","SMD"
-"0.1 мк‘","C_1206","4","C2, C3, C4, C5","SMD"
+"0.1 мк‘","C_0805","3","C1, C2, C3","SMD"
+"0.1 мк‘","C_1206","2","C4, C5","SMD"
 "0.1мк‘","C_1206","2","C10, C12","SMD"
 "0","R_1206","1","R33","0,25 ¬т"
 "1.5K","R_1206","1","R3","0,25 ¬т"
@@ -31,7 +31,7 @@
 "MBR0520LT1G","SOD-123","13","VD1, VD2, VD3, VD4, VD5, VD6, VD7, VD8, VD9, VD10, VD11, VD12, VD13","диод, SMD"
 "PC817","SOIC254P1000X400-4N","9","DA1, DA2, DA3, DA4, DA5, DA6, DA8, DA9, DA10","оптрон, SMD"
 "PCF8574DW","SOIC127P1030X265-16N","2","A1, A2","Remote 8-Bit I/O Expander for I2C-Bus 16-SOIC -40 to 85"
-"SMA4007","SMA (DO-214AC)","5","VD15, VD16, VD19, VD20, VD21","диод, SMD"
-"STM32F103-BluePill","MODULE_ZC323000","1","U3","STM32F103C8T6 ARM STM32 Minimum System Development Board Module For Arduino"
+"SMA400*","SMA (DO-214AC)","5","VD15, VD16, VD19, VD20, VD21","диод, SMD"
 "TS-A2PG-130","TS-A2PG-130","1","KN1"," нопка 5 мм"
 "USBB","SAMTEC_USB-B-S-X-X-TH","1","J1","USB-B (USB TYPE-B) USB 2.0 Receptacle Connector 4 Position Through Hole, Right Angle"
+"ZC323000","MODULE_ZC323000","1","U3","STM32F103C8T6 ARM STM32 Minimum System Development Board Module For Arduino"
